@@ -7,10 +7,10 @@ Olá, eu sou o Ian!
 🚀 Sobre mim
 Estou iniciando minha jornada na tecnologia com uma base sólida em **Lógica de Programação e Algoritmos**. Atualmente, estou focado em aprender linguagens de alto desempenho e desenvolvimento web para construir aplicações completas.
 
-- 🛠️ Linguagens de estudo: **C++, Java e JavaScript**
-- 🌐 Web Stack: **HTML5 e CSS3**
-- 🧠 Foco principal: **Algoritmos e Estruturas de Dados**
-- 🎯 Objetivo: Evoluir constantemente e contribuir em projetos desafiadores.
+🛠️ Linguagens de estudo: **C++, Java e JavaScript**
+🌐 Web Stack: **HTML5 e CSS3**
+🧠 Foco principal: **Algoritmos e Estruturas de Dados**
+🎯 Objetivo: Evoluir constantemente e contribuir em projetos desafiadores.
 
 💻 Tecnologias e Habilidades:
 
